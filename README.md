@@ -1,2 +1,5 @@
-# SH-Choi
-Config files for my GitHub profile.
+<!DOCTYPE html>
+<html>
+  <div id = "maindiv">asdf</div>
+  <script src = "script.js"></script>
+</html>
